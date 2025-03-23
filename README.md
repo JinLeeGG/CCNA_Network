@@ -2,10 +2,9 @@
 This repository contains my notes, code examples, and practice files for learning Network and CCNA. It includes my notebooks and other tools to study such as Wireshark and Cisco packet tracer student.
 
 ## Install
-1. Download CCNA.zip file
-2. Unzip CCNA.zip in your window
-3. 02_수업용 도구 ==> '01_Cisco Packet Tracer 6.2' download
-4. 02_수업용 도구 ==> '02_Wireshark' download
+1. Download the '01_교제' file
+2. Install Cisco Pocket Tracer 6.2 
+3. Install Wireshark 1.12.4 
 
 **If there is any pop-up about updates, ignore it**
 
