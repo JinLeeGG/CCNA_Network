@@ -13,7 +13,8 @@ This repository contains my notes, code examples, and practice files for learnin
 **This will be updated in the future**
 1. 네트워크 구성 요소
 2. 네트워크 주소 체계 이해
-3. 데이터 전송 프로토콜 (TCP, UDP) 이해
+3. TCP, UDP 서비스
+4. 데이터 전송 프로토콜 
 
 ## License Information
 
