@@ -17,7 +17,8 @@ This repository contains my notes, code examples, and practice files for learnin
 4. 데이터 전송 프로토콜
 5. 와이어샤크 필터
 6. IP 주소 특징
-7. 서브넷팅&주소 요약
+7. 서브넷팅 & 주소 요약
+8. 서브넷팅 / VLSM / 주소 요약
 
 ## License Information
 
