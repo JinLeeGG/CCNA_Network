@@ -20,6 +20,9 @@ This repository contains my notes, code examples, and practice files for learnin
   6. IP 주소 특징
   7. 서브넷팅 & 주소 요약
   8. 서브넷팅 / VLSM / 주소 요약
+ 
+- 제2부 - IP 라우팅 
+  1. CISCO IOS 명령어
 
 ## License Information
 
