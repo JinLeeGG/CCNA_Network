@@ -22,7 +22,7 @@ This repository contains my notes, code examples, and practice files for learnin
   8. 서브넷팅 / VLSM / 주소 요약
  
 - 제2부 - IP 라우팅 
-  1. CISCO IOS 명령어 (needs to be finished and uploaded)
+  1. CISCO IOS 명령어 
 
 ## License Information
 
