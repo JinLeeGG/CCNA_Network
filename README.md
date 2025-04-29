@@ -24,7 +24,7 @@ This repository contains my notes, code examples, and practice files for learnin
 - 제2부 - IP 라우팅 
   1. CISCO IOS 명령어
   2. 정적 경로 및 기본 경로 구성
-  3. 제3장 RIPv1 라우팅 프로토콜
+  3. RIPv1 라우팅 프로토콜
 
 ## License Information
 
