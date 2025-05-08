@@ -29,6 +29,8 @@ This repository contains my notes, code examples, and practice files for learnin
   5. EIGRP 라우팅 프로토콜
   6. OSPF 라우팅 프로토콜
   7. ACL (Access Control List)
+  8. DHCP (Dynamic Host Configuration Protocol)
+  9. NAT (Network Address Translation)
 
 ## License Information
 
