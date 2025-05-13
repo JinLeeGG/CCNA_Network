@@ -32,6 +32,9 @@ This repository contains my notes, code examples, and practice files for learnin
   8. DHCP (Dynamic Host Configuration Protocol)
   9. NAT (Network Address Translation)
 
+- 제3부 - LAN 스위칭
+  1. 스위치 장비 특징
+
 ## License Information
 
 - The **code** in this repository is licensed under the [MIT License](LICENSE), meaning you are free to use, modify, and distribute it with attribution.
