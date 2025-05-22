@@ -35,6 +35,7 @@ This repository contains my notes, code examples, and practice files for learnin
 - 제3부 - LAN 스위칭
   1. 스위치 장비 특징
   2. VLAN (Virtual LAN)
+  3. VTP (VLAN Trunk Protocol)
 
 ## License Information
 
