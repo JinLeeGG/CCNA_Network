@@ -36,6 +36,7 @@ This repository contains my notes, code examples, and practice files for learnin
   1. 스위치 장비 특징
   2. VLAN (Virtual LAN)
   3. VTP (VLAN Trunk Protocol)
+  4. IEEE 802.1d STP
 
 ## License Information
 
