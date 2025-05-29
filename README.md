@@ -37,6 +37,8 @@ This repository contains my notes, code examples, and practice files for learnin
   2. VLAN (Virtual LAN)
   3. VTP (VLAN Trunk Protocol)
   4. IEEE 802.1d STP
+  5. PVST (Per VLAN Spanning-Tree)
+  6. Etherchanel
 
 ## License Information
 
