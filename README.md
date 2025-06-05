@@ -40,7 +40,7 @@ This repository contains my notes, code examples, and practice files for learnin
   5. PVST (Per VLAN Spanning-Tree)
   6. Etherchanel
   7. L3 Switch
-  8. HSRP
+  8. HSRP (Hot Standby Router Protocol)
 
 ## License Information
 
